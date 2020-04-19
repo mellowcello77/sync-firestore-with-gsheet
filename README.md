@@ -10,6 +10,7 @@ Blog for more information: https://github.com/grahamearley/FirestoreGoogleAppsSc
 
 ## Required variables to access firestore is in the script:
 const key = '-----BEGIN PRIVATE KEY-----\YourPrivateKeyHere\n-----END PRIVATE KEY-----\n' // TODO - enter your private key here
+______
 const email = 'YourGoogleServiceAccountEmail@gserviceaccount.com' // TODO - enter your email here
 onst projectId = 'YourProjectNameID' // TODO - Enter your project ID here
 
